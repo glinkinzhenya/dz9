@@ -99,7 +99,7 @@
 
 }
 
-.block4__all, .block5__all {
+.block4__all {
     float: left;
 }
 
@@ -113,15 +113,19 @@
     height: 130px;
     width: 130px;
     float: left;
-    margin-left: calc(45% - 25px);
     margin-top: 10px;
 }
 
-.block5__small1, .block5__small2 {
+.block5__small {
     border: 1px solid black;
     height: 60px;
     width: 110px;
-
 }
 
+.block5__all {
+    float: right;
+}
 
+.test {
+    float: right;
+}
